@@ -1,0 +1,601 @@
+dia,hora,hora_num,trafico,cantidad_buses,cantidad_pasajeros,tiempo_viaje,origen,destino
+1,04:00 AM,4,normal,9,268,23,Estación Este,Barrio Alto
+1,05:00 AM,5,moderado,10,192,34,Terminal Norte,Aeropuerto
+1,06:00 AM,6,colapsado,23,739,48,Centro,Aeropuerto
+1,07:00 AM,7,colapsado,22,1007,67,Estación Este,Estación Central
+1,08:00 AM,8,colapsado,25,1427,51,Terminal Sur,Estación Central
+1,09:00 AM,9,moderado,21,757,37,Terminal Norte,Zona Industrial
+1,10:00 AM,10,moderado,19,518,34,Centro,Estación Central
+1,11:00 AM,11,normal,12,593,27,Centro,Universidad
+1,12:00 PM,12,normal,19,351,21,Terminal Norte,Estación Central
+1,01:00 PM,13,moderado,18,413,45,Centro,Estación Central
+1,02:00 PM,14,normal,15,522,30,Centro,Zona Industrial
+1,03:00 PM,15,normal,15,329,24,Terminal Sur,Estación Central
+1,04:00 PM,16,moderado,18,435,33,Estación Este,Aeropuerto
+1,05:00 PM,17,moderado,30,1010,45,Estación Oeste,Barrio Alto
+1,06:00 PM,18,colapsado,20,1056,67,Terminal Sur,Aeropuerto
+1,07:00 PM,19,normal,22,1413,27,Estación Este,Barrio Alto
+1,08:00 PM,20,moderado,8,526,36,Terminal Sur,Barrio Alto
+1,09:00 PM,21,moderado,17,622,39,Terminal Norte,Barrio Alto
+1,10:00 PM,22,normal,7,196,24,Terminal Sur,Zona Industrial
+1,11:00 PM,23,normal,6,231,27,Estación Este,Zona Industrial
+2,04:00 AM,4,colapsado,9,198,56,Terminal Norte,Estación Central
+2,05:00 AM,5,normal,6,251,28,Terminal Sur,Estación Central
+2,06:00 AM,6,colapsado,23,1188,48,Estación Oeste,Zona Industrial
+2,07:00 AM,7,normal,26,1261,26,Terminal Sur,Zona Industrial
+2,08:00 AM,8,colapsado,28,1190,54,Terminal Sur,Aeropuerto
+2,09:00 AM,9,colapsado,28,1283,46,Terminal Norte,Aeropuerto
+2,10:00 AM,10,moderado,11,346,36,Terminal Norte,Universidad
+2,11:00 AM,11,moderado,20,601,41,Estación Este,Barrio Alto
+2,12:00 PM,12,normal,16,353,20,Estación Este,Estación Central
+2,01:00 PM,13,normal,15,531,29,Terminal Norte,Aeropuerto
+2,02:00 PM,14,normal,19,302,25,Estación Este,Barrio Alto
+2,03:00 PM,15,moderado,8,500,37,Terminal Sur,Zona Industrial
+2,04:00 PM,16,normal,13,681,30,Terminal Sur,Zona Industrial
+2,05:00 PM,17,colapsado,26,1645,61,Estación Este,Zona Industrial
+2,06:00 PM,18,colapsado,28,981,69,Terminal Norte,Zona Industrial
+2,07:00 PM,19,normal,28,1690,25,Terminal Norte,Universidad
+2,08:00 PM,20,moderado,13,691,42,Estación Este,Universidad
+2,09:00 PM,21,normal,16,512,26,Terminal Sur,Universidad
+2,10:00 PM,22,normal,5,234,20,Centro,Universidad
+2,11:00 PM,23,normal,8,188,20,Estación Este,Zona Industrial
+3,04:00 AM,4,normal,5,188,25,Estación Este,Zona Industrial
+3,05:00 AM,5,moderado,9,192,40,Terminal Sur,Aeropuerto
+3,06:00 AM,6,colapsado,25,1595,68,Estación Oeste,Estación Central
+3,07:00 AM,7,moderado,26,803,36,Terminal Norte,Estación Central
+3,08:00 AM,8,colapsado,30,1294,70,Centro,Universidad
+3,09:00 AM,9,normal,22,1394,22,Estación Este,Estación Central
+3,10:00 AM,10,colapsado,15,345,49,Estación Este,Barrio Alto
+3,11:00 AM,11,colapsado,17,552,61,Terminal Norte,Universidad
+3,12:00 PM,12,moderado,15,641,31,Centro,Aeropuerto
+3,01:00 PM,13,moderado,17,336,44,Terminal Sur,Zona Industrial
+3,02:00 PM,14,normal,13,444,21,Terminal Sur,Zona Industrial
+3,03:00 PM,15,normal,13,595,27,Estación Este,Zona Industrial
+3,04:00 PM,16,colapsado,15,497,58,Terminal Norte,Estación Central
+3,05:00 PM,17,moderado,28,1420,41,Estación Oeste,Zona Industrial
+3,06:00 PM,18,colapsado,26,870,63,Centro,Aeropuerto
+3,07:00 PM,19,colapsado,29,1158,70,Estación Este,Estación Central
+3,08:00 PM,20,moderado,11,452,35,Centro,Aeropuerto
+3,09:00 PM,21,colapsado,10,587,58,Terminal Sur,Universidad
+3,10:00 PM,22,normal,10,274,27,Estación Este,Aeropuerto
+3,11:00 PM,23,normal,10,283,28,Centro,Aeropuerto
+4,04:00 AM,4,normal,6,228,23,Terminal Sur,Barrio Alto
+4,05:00 AM,5,normal,7,259,23,Centro,Zona Industrial
+4,06:00 AM,6,colapsado,20,1319,49,Estación Este,Zona Industrial
+4,07:00 AM,7,normal,25,843,29,Terminal Norte,Aeropuerto
+4,08:00 AM,8,colapsado,26,1519,54,Terminal Sur,Estación Central
+4,09:00 AM,9,colapsado,24,1135,63,Terminal Sur,Estación Central
+4,10:00 AM,10,normal,8,537,27,Centro,Universidad
+4,11:00 AM,11,moderado,13,384,31,Terminal Norte,Universidad
+4,12:00 PM,12,colapsado,13,482,54,Terminal Norte,Zona Industrial
+4,01:00 PM,13,moderado,17,483,43,Terminal Sur,Zona Industrial
+4,02:00 PM,14,moderado,17,646,38,Terminal Sur,Aeropuerto
+4,03:00 PM,15,moderado,13,446,38,Terminal Norte,Barrio Alto
+4,04:00 PM,16,colapsado,13,442,67,Estación Oeste,Estación Central
+4,05:00 PM,17,colapsado,29,1617,45,Centro,Barrio Alto
+4,06:00 PM,18,colapsado,23,1022,47,Estación Este,Zona Industrial
+4,07:00 PM,19,colapsado,20,1329,65,Estación Oeste,Aeropuerto
+4,08:00 PM,20,normal,17,381,28,Terminal Sur,Barrio Alto
+4,09:00 PM,21,moderado,11,331,35,Terminal Sur,Universidad
+4,10:00 PM,22,normal,8,283,29,Centro,Barrio Alto
+4,11:00 PM,23,colapsado,10,264,66,Terminal Sur,Barrio Alto
+5,04:00 AM,4,normal,10,165,25,Estación Este,Estación Central
+5,05:00 AM,5,normal,5,244,26,Estación Este,Zona Industrial
+5,06:00 AM,6,colapsado,25,871,68,Centro,Barrio Alto
+5,07:00 AM,7,moderado,30,702,43,Estación Este,Universidad
+5,08:00 AM,8,colapsado,23,1029,47,Estación Este,Universidad
+5,09:00 AM,9,colapsado,23,1094,58,Estación Este,Zona Industrial
+5,10:00 AM,10,moderado,11,415,43,Terminal Norte,Universidad
+5,11:00 AM,11,moderado,19,558,38,Estación Oeste,Estación Central
+5,12:00 PM,12,moderado,10,634,44,Estación Oeste,Aeropuerto
+5,01:00 PM,13,normal,14,460,21,Estación Oeste,Aeropuerto
+5,02:00 PM,14,colapsado,11,485,46,Estación Oeste,Zona Industrial
+5,03:00 PM,15,colapsado,16,569,46,Estación Este,Universidad
+5,04:00 PM,16,moderado,20,584,37,Terminal Norte,Estación Central
+5,05:00 PM,17,moderado,24,1495,33,Centro,Aeropuerto
+5,06:00 PM,18,colapsado,21,1551,53,Terminal Norte,Universidad
+5,07:00 PM,19,moderado,23,890,32,Centro,Universidad
+5,08:00 PM,20,moderado,9,325,40,Terminal Norte,Zona Industrial
+5,09:00 PM,21,normal,13,581,22,Estación Este,Barrio Alto
+5,10:00 PM,22,normal,5,177,25,Estación Oeste,Universidad
+5,11:00 PM,23,normal,8,294,30,Estación Este,Aeropuerto
+6,04:00 AM,4,normal,8,239,23,Centro,Barrio Alto
+6,05:00 AM,5,normal,10,200,26,Terminal Sur,Zona Industrial
+6,06:00 AM,6,colapsado,29,1695,49,Estación Este,Estación Central
+6,07:00 AM,7,normal,21,1160,28,Terminal Sur,Aeropuerto
+6,08:00 AM,8,colapsado,28,1094,55,Estación Oeste,Zona Industrial
+6,09:00 AM,9,moderado,29,864,30,Estación Oeste,Zona Industrial
+6,10:00 AM,10,normal,18,553,23,Terminal Sur,Aeropuerto
+6,11:00 AM,11,moderado,14,330,32,Estación Oeste,Zona Industrial
+6,12:00 PM,12,colapsado,18,412,63,Estación Este,Barrio Alto
+6,01:00 PM,13,normal,20,585,23,Estación Oeste,Universidad
+6,02:00 PM,14,normal,12,507,29,Estación Oeste,Zona Industrial
+6,03:00 PM,15,moderado,15,687,31,Terminal Norte,Universidad
+6,04:00 PM,16,colapsado,12,607,45,Terminal Norte,Universidad
+6,05:00 PM,17,colapsado,27,770,59,Estación Oeste,Zona Industrial
+6,06:00 PM,18,colapsado,21,766,66,Terminal Sur,Universidad
+6,07:00 PM,19,moderado,28,1642,34,Estación Oeste,Barrio Alto
+6,08:00 PM,20,moderado,8,548,42,Estación Oeste,Estación Central
+6,09:00 PM,21,colapsado,9,680,56,Centro,Aeropuerto
+6,10:00 PM,22,moderado,9,238,42,Centro,Zona Industrial
+6,11:00 PM,23,colapsado,5,180,67,Centro,Barrio Alto
+7,04:00 AM,4,normal,9,177,21,Estación Este,Zona Industrial
+7,05:00 AM,5,moderado,7,221,35,Estación Este,Barrio Alto
+7,06:00 AM,6,colapsado,28,858,52,Estación Este,Aeropuerto
+7,07:00 AM,7,moderado,26,787,42,Terminal Norte,Estación Central
+7,08:00 AM,8,moderado,23,1506,38,Terminal Norte,Zona Industrial
+7,09:00 AM,9,colapsado,21,810,65,Estación Este,Estación Central
+7,10:00 AM,10,normal,15,481,26,Terminal Norte,Estación Central
+7,11:00 AM,11,normal,20,502,23,Estación Este,Estación Central
+7,12:00 PM,12,colapsado,16,420,47,Estación Oeste,Zona Industrial
+7,01:00 PM,13,normal,19,354,27,Estación Oeste,Zona Industrial
+7,02:00 PM,14,colapsado,13,529,66,Terminal Sur,Zona Industrial
+7,03:00 PM,15,colapsado,14,446,65,Terminal Sur,Aeropuerto
+7,04:00 PM,16,normal,8,687,22,Terminal Sur,Barrio Alto
+7,05:00 PM,17,colapsado,26,1679,56,Centro,Zona Industrial
+7,06:00 PM,18,colapsado,30,1188,54,Terminal Norte,Zona Industrial
+7,07:00 PM,19,colapsado,27,1410,53,Terminal Sur,Universidad
+7,08:00 PM,20,normal,18,672,20,Terminal Sur,Zona Industrial
+7,09:00 PM,21,normal,8,340,25,Estación Este,Aeropuerto
+7,10:00 PM,22,normal,9,228,26,Terminal Norte,Universidad
+7,11:00 PM,23,moderado,6,157,36,Centro,Estación Central
+8,04:00 AM,4,colapsado,5,192,61,Terminal Sur,Aeropuerto
+8,05:00 AM,5,normal,8,244,24,Terminal Sur,Universidad
+8,06:00 AM,6,colapsado,22,1429,60,Estación Oeste,Barrio Alto
+8,07:00 AM,7,colapsado,26,1119,46,Centro,Aeropuerto
+8,08:00 AM,8,moderado,21,1403,31,Terminal Sur,Estación Central
+8,09:00 AM,9,colapsado,26,1216,67,Estación Oeste,Barrio Alto
+8,10:00 AM,10,moderado,15,625,44,Estación Oeste,Barrio Alto
+8,11:00 AM,11,normal,20,449,21,Estación Este,Barrio Alto
+8,12:00 PM,12,moderado,10,431,35,Terminal Sur,Universidad
+8,01:00 PM,13,colapsado,14,504,60,Estación Este,Zona Industrial
+8,02:00 PM,14,normal,12,560,23,Estación Oeste,Aeropuerto
+8,03:00 PM,15,colapsado,9,551,60,Terminal Norte,Aeropuerto
+8,04:00 PM,16,normal,8,378,20,Terminal Norte,Estación Central
+8,05:00 PM,17,colapsado,28,757,62,Centro,Universidad
+8,06:00 PM,18,colapsado,23,1437,65,Terminal Norte,Universidad
+8,07:00 PM,19,colapsado,22,1686,61,Terminal Norte,Barrio Alto
+8,08:00 PM,20,moderado,14,417,42,Estación Este,Estación Central
+8,09:00 PM,21,moderado,15,569,37,Estación Este,Barrio Alto
+8,10:00 PM,22,normal,5,280,21,Centro,Aeropuerto
+8,11:00 PM,23,moderado,7,221,36,Terminal Norte,Universidad
+9,04:00 AM,4,normal,5,152,29,Estación Este,Universidad
+9,05:00 AM,5,normal,7,286,27,Terminal Sur,Barrio Alto
+9,06:00 AM,6,moderado,26,838,36,Estación Este,Aeropuerto
+9,07:00 AM,7,moderado,22,1276,30,Terminal Norte,Barrio Alto
+9,08:00 AM,8,colapsado,21,1388,45,Centro,Barrio Alto
+9,09:00 AM,9,colapsado,22,1403,46,Terminal Norte,Barrio Alto
+9,10:00 AM,10,moderado,8,388,33,Estación Oeste,Aeropuerto
+9,11:00 AM,11,colapsado,11,618,69,Estación Este,Universidad
+9,12:00 PM,12,normal,11,372,23,Centro,Barrio Alto
+9,01:00 PM,13,moderado,18,583,39,Centro,Aeropuerto
+9,02:00 PM,14,colapsado,19,441,54,Terminal Sur,Estación Central
+9,03:00 PM,15,moderado,18,528,40,Centro,Aeropuerto
+9,04:00 PM,16,moderado,9,405,45,Estación Oeste,Zona Industrial
+9,05:00 PM,17,colapsado,27,1280,45,Terminal Sur,Zona Industrial
+9,06:00 PM,18,moderado,28,1683,40,Terminal Sur,Zona Industrial
+9,07:00 PM,19,moderado,29,1188,42,Estación Oeste,Estación Central
+9,08:00 PM,20,moderado,8,465,40,Terminal Sur,Zona Industrial
+9,09:00 PM,21,moderado,12,528,33,Terminal Sur,Aeropuerto
+9,10:00 PM,22,normal,5,253,22,Estación Oeste,Estación Central
+9,11:00 PM,23,moderado,8,205,30,Estación Este,Aeropuerto
+10,04:00 AM,4,moderado,7,229,32,Terminal Norte,Universidad
+10,05:00 AM,5,normal,9,195,29,Terminal Norte,Barrio Alto
+10,06:00 AM,6,colapsado,21,1379,53,Terminal Norte,Estación Central
+10,07:00 AM,7,colapsado,27,921,63,Terminal Norte,Aeropuerto
+10,08:00 AM,8,colapsado,30,1098,63,Estación Oeste,Estación Central
+10,09:00 AM,9,colapsado,25,785,66,Estación Oeste,Zona Industrial
+10,10:00 AM,10,moderado,9,675,39,Estación Este,Zona Industrial
+10,11:00 AM,11,moderado,18,616,39,Centro,Aeropuerto
+10,12:00 PM,12,normal,17,525,23,Centro,Estación Central
+10,01:00 PM,13,normal,15,415,24,Centro,Barrio Alto
+10,02:00 PM,14,normal,11,322,22,Terminal Norte,Aeropuerto
+10,03:00 PM,15,moderado,20,398,31,Estación Este,Zona Industrial
+10,04:00 PM,16,colapsado,15,532,60,Terminal Sur,Aeropuerto
+10,05:00 PM,17,colapsado,23,1317,45,Centro,Aeropuerto
+10,06:00 PM,18,moderado,20,921,41,Centro,Universidad
+10,07:00 PM,19,colapsado,21,763,51,Estación Este,Zona Industrial
+10,08:00 PM,20,moderado,9,679,41,Estación Este,Zona Industrial
+10,09:00 PM,21,colapsado,9,343,67,Estación Oeste,Barrio Alto
+10,10:00 PM,22,normal,6,151,30,Estación Este,Estación Central
+10,11:00 PM,23,normal,10,192,22,Estación Oeste,Estación Central
+11,04:00 AM,4,normal,5,179,25,Centro,Universidad
+11,05:00 AM,5,moderado,6,278,45,Terminal Norte,Aeropuerto
+11,06:00 AM,6,colapsado,26,1158,53,Estación Oeste,Universidad
+11,07:00 AM,7,moderado,22,979,43,Estación Oeste,Barrio Alto
+11,08:00 AM,8,colapsado,29,1332,56,Terminal Sur,Estación Central
+11,09:00 AM,9,moderado,28,1001,32,Centro,Aeropuerto
+11,10:00 AM,10,moderado,19,533,31,Estación Oeste,Estación Central
+11,11:00 AM,11,moderado,18,390,34,Centro,Aeropuerto
+11,12:00 PM,12,moderado,16,699,38,Terminal Norte,Estación Central
+11,01:00 PM,13,moderado,20,584,31,Centro,Zona Industrial
+11,02:00 PM,14,moderado,14,621,35,Terminal Sur,Aeropuerto
+11,03:00 PM,15,normal,11,615,30,Terminal Sur,Aeropuerto
+11,04:00 PM,16,moderado,11,570,41,Terminal Sur,Barrio Alto
+11,05:00 PM,17,colapsado,29,1688,70,Terminal Sur,Zona Industrial
+11,06:00 PM,18,colapsado,28,1647,61,Terminal Norte,Barrio Alto
+11,07:00 PM,19,colapsado,25,1008,47,Estación Oeste,Aeropuerto
+11,08:00 PM,20,colapsado,13,477,52,Estación Este,Zona Industrial
+11,09:00 PM,21,moderado,8,573,33,Estación Este,Zona Industrial
+11,10:00 PM,22,normal,8,197,29,Terminal Sur,Zona Industrial
+11,11:00 PM,23,normal,10,176,23,Estación Oeste,Aeropuerto
+12,04:00 AM,4,normal,10,289,25,Centro,Aeropuerto
+12,05:00 AM,5,moderado,5,272,37,Terminal Norte,Aeropuerto
+12,06:00 AM,6,moderado,27,762,45,Terminal Norte,Barrio Alto
+12,07:00 AM,7,colapsado,25,861,60,Estación Oeste,Estación Central
+12,08:00 AM,8,colapsado,22,1130,46,Terminal Sur,Zona Industrial
+12,09:00 AM,9,colapsado,23,1361,52,Terminal Sur,Estación Central
+12,10:00 AM,10,moderado,11,400,36,Centro,Aeropuerto
+12,11:00 AM,11,colapsado,10,582,46,Estación Este,Aeropuerto
+12,12:00 PM,12,moderado,13,550,42,Centro,Universidad
+12,01:00 PM,13,moderado,8,614,44,Terminal Norte,Barrio Alto
+12,02:00 PM,14,moderado,10,474,42,Estación Oeste,Barrio Alto
+12,03:00 PM,15,colapsado,12,653,56,Terminal Sur,Barrio Alto
+12,04:00 PM,16,moderado,10,625,45,Terminal Sur,Aeropuerto
+12,05:00 PM,17,moderado,20,1663,37,Estación Oeste,Universidad
+12,06:00 PM,18,normal,29,1286,28,Estación Este,Universidad
+12,07:00 PM,19,colapsado,20,1138,46,Estación Oeste,Estación Central
+12,08:00 PM,20,moderado,8,345,42,Estación Oeste,Universidad
+12,09:00 PM,21,colapsado,9,692,66,Centro,Zona Industrial
+12,10:00 PM,22,normal,6,181,26,Terminal Sur,Universidad
+12,11:00 PM,23,normal,6,267,30,Estación Este,Zona Industrial
+13,04:00 AM,4,colapsado,6,216,54,Estación Oeste,Estación Central
+13,05:00 AM,5,moderado,6,234,31,Estación Oeste,Universidad
+13,06:00 AM,6,moderado,23,1067,45,Terminal Sur,Estación Central
+13,07:00 AM,7,colapsado,27,1357,69,Estación Este,Zona Industrial
+13,08:00 AM,8,moderado,22,1087,30,Estación Este,Aeropuerto
+13,09:00 AM,9,colapsado,21,1195,48,Terminal Norte,Universidad
+13,10:00 AM,10,normal,14,420,20,Terminal Sur,Universidad
+13,11:00 AM,11,colapsado,18,461,67,Centro,Estación Central
+13,12:00 PM,12,moderado,17,519,40,Terminal Sur,Estación Central
+13,01:00 PM,13,colapsado,14,581,69,Estación Oeste,Estación Central
+13,02:00 PM,14,moderado,15,668,44,Estación Este,Universidad
+13,03:00 PM,15,moderado,8,410,42,Terminal Sur,Estación Central
+13,04:00 PM,16,moderado,16,520,30,Estación Oeste,Estación Central
+13,05:00 PM,17,colapsado,24,1401,47,Terminal Sur,Estación Central
+13,06:00 PM,18,moderado,24,701,32,Centro,Estación Central
+13,07:00 PM,19,normal,27,729,22,Estación Este,Zona Industrial
+13,08:00 PM,20,moderado,20,546,37,Centro,Estación Central
+13,09:00 PM,21,normal,14,433,21,Estación Oeste,Zona Industrial
+13,10:00 PM,22,normal,5,170,24,Terminal Norte,Zona Industrial
+13,11:00 PM,23,colapsado,7,290,58,Centro,Estación Central
+14,04:00 AM,4,normal,7,267,29,Terminal Norte,Zona Industrial
+14,05:00 AM,5,normal,5,215,21,Centro,Estación Central
+14,06:00 AM,6,colapsado,26,859,63,Centro,Zona Industrial
+14,07:00 AM,7,colapsado,28,1497,66,Terminal Sur,Universidad
+14,08:00 AM,8,colapsado,30,1227,52,Terminal Norte,Estación Central
+14,09:00 AM,9,colapsado,22,1133,66,Terminal Norte,Universidad
+14,10:00 AM,10,normal,18,628,22,Estación Oeste,Zona Industrial
+14,11:00 AM,11,moderado,12,611,44,Terminal Norte,Aeropuerto
+14,12:00 PM,12,normal,9,516,21,Estación Oeste,Universidad
+14,01:00 PM,13,normal,20,504,22,Centro,Universidad
+14,02:00 PM,14,normal,18,663,27,Estación Oeste,Estación Central
+14,03:00 PM,15,moderado,12,611,36,Estación Este,Aeropuerto
+14,04:00 PM,16,normal,12,478,29,Centro,Estación Central
+14,05:00 PM,17,colapsado,30,732,62,Estación Este,Zona Industrial
+14,06:00 PM,18,colapsado,24,958,62,Terminal Sur,Aeropuerto
+14,07:00 PM,19,normal,29,786,30,Estación Oeste,Universidad
+14,08:00 PM,20,colapsado,11,468,53,Terminal Norte,Barrio Alto
+14,09:00 PM,21,moderado,19,614,40,Terminal Norte,Estación Central
+14,10:00 PM,22,normal,5,238,26,Centro,Universidad
+14,11:00 PM,23,moderado,10,264,33,Centro,Universidad
+15,04:00 AM,4,normal,8,239,27,Estación Oeste,Zona Industrial
+15,05:00 AM,5,normal,5,188,27,Terminal Norte,Estación Central
+15,06:00 AM,6,moderado,20,989,32,Terminal Norte,Universidad
+15,07:00 AM,7,colapsado,23,1121,67,Terminal Sur,Universidad
+15,08:00 AM,8,moderado,28,1056,39,Terminal Norte,Estación Central
+15,09:00 AM,9,moderado,30,1112,37,Estación Este,Zona Industrial
+15,10:00 AM,10,normal,19,336,22,Estación Oeste,Barrio Alto
+15,11:00 AM,11,moderado,13,338,41,Centro,Universidad
+15,12:00 PM,12,colapsado,17,688,61,Centro,Estación Central
+15,01:00 PM,13,moderado,15,585,44,Centro,Zona Industrial
+15,02:00 PM,14,moderado,18,442,45,Estación Oeste,Universidad
+15,03:00 PM,15,normal,14,660,27,Terminal Sur,Aeropuerto
+15,04:00 PM,16,moderado,15,441,45,Terminal Norte,Zona Industrial
+15,05:00 PM,17,colapsado,22,1189,53,Terminal Norte,Barrio Alto
+15,06:00 PM,18,colapsado,22,930,65,Estación Este,Aeropuerto
+15,07:00 PM,19,colapsado,26,1262,52,Estación Este,Estación Central
+15,08:00 PM,20,colapsado,12,480,60,Estación Este,Aeropuerto
+15,09:00 PM,21,moderado,20,595,40,Centro,Universidad
+15,10:00 PM,22,normal,5,238,26,Centro,Estación Central
+15,11:00 PM,23,colapsado,10,266,59,Terminal Norte,Zona Industrial
+16,04:00 AM,4,normal,7,284,21,Centro,Aeropuerto
+16,05:00 AM,5,normal,8,224,22,Estación Este,Zona Industrial
+16,06:00 AM,6,moderado,27,1193,38,Terminal Norte,Aeropuerto
+16,07:00 AM,7,colapsado,29,1244,66,Terminal Sur,Zona Industrial
+16,08:00 AM,8,moderado,25,1041,38,Terminal Sur,Aeropuerto
+16,09:00 AM,9,moderado,26,851,35,Centro,Barrio Alto
+16,10:00 AM,10,moderado,20,347,36,Centro,Estación Central
+16,11:00 AM,11,normal,20,431,26,Estación Oeste,Aeropuerto
+16,12:00 PM,12,normal,18,383,20,Centro,Zona Industrial
+16,01:00 PM,13,normal,17,395,23,Terminal Sur,Zona Industrial
+16,02:00 PM,14,normal,15,650,22,Estación Este,Universidad
+16,03:00 PM,15,moderado,10,365,40,Terminal Norte,Universidad
+16,04:00 PM,16,colapsado,17,637,67,Estación Oeste,Universidad
+16,05:00 PM,17,moderado,23,1566,41,Terminal Sur,Estación Central
+16,06:00 PM,18,colapsado,25,906,54,Centro,Universidad
+16,07:00 PM,19,moderado,21,803,34,Terminal Norte,Zona Industrial
+16,08:00 PM,20,normal,14,664,23,Estación Este,Barrio Alto
+16,09:00 PM,21,moderado,9,657,33,Terminal Sur,Aeropuerto
+16,10:00 PM,22,normal,8,229,24,Estación Este,Zona Industrial
+16,11:00 PM,23,normal,7,277,25,Centro,Zona Industrial
+17,04:00 AM,4,normal,7,169,24,Centro,Estación Central
+17,05:00 AM,5,normal,10,269,25,Estación Este,Zona Industrial
+17,06:00 AM,6,colapsado,21,1365,66,Centro,Aeropuerto
+17,07:00 AM,7,colapsado,23,892,62,Estación Este,Barrio Alto
+17,08:00 AM,8,moderado,20,924,39,Centro,Aeropuerto
+17,09:00 AM,9,colapsado,22,1416,60,Terminal Norte,Barrio Alto
+17,10:00 AM,10,moderado,11,616,39,Estación Oeste,Estación Central
+17,11:00 AM,11,colapsado,13,313,67,Terminal Sur,Aeropuerto
+17,12:00 PM,12,normal,11,377,27,Estación Este,Universidad
+17,01:00 PM,13,moderado,11,601,42,Terminal Norte,Estación Central
+17,02:00 PM,14,moderado,18,514,40,Terminal Norte,Universidad
+17,03:00 PM,15,normal,19,303,30,Estación Oeste,Universidad
+17,04:00 PM,16,normal,13,324,23,Terminal Sur,Universidad
+17,05:00 PM,17,colapsado,22,830,65,Estación Este,Barrio Alto
+17,06:00 PM,18,colapsado,21,1035,65,Terminal Sur,Aeropuerto
+17,07:00 PM,19,moderado,27,789,38,Terminal Norte,Aeropuerto
+17,08:00 PM,20,moderado,15,355,35,Terminal Norte,Zona Industrial
+17,09:00 PM,21,colapsado,17,650,51,Terminal Sur,Aeropuerto
+17,10:00 PM,22,normal,7,199,30,Estación Este,Zona Industrial
+17,11:00 PM,23,normal,10,154,30,Terminal Sur,Universidad
+18,04:00 AM,4,normal,9,185,24,Terminal Norte,Aeropuerto
+18,05:00 AM,5,normal,5,238,28,Centro,Barrio Alto
+18,06:00 AM,6,colapsado,26,1313,68,Terminal Sur,Barrio Alto
+18,07:00 AM,7,moderado,26,853,35,Terminal Sur,Aeropuerto
+18,08:00 AM,8,colapsado,21,1639,45,Estación Oeste,Universidad
+18,09:00 AM,9,colapsado,24,840,56,Terminal Sur,Estación Central
+18,10:00 AM,10,normal,9,559,29,Estación Oeste,Estación Central
+18,11:00 AM,11,colapsado,18,503,57,Terminal Norte,Estación Central
+18,12:00 PM,12,moderado,14,488,39,Terminal Norte,Barrio Alto
+18,01:00 PM,13,moderado,13,376,33,Centro,Universidad
+18,02:00 PM,14,colapsado,20,554,49,Estación Oeste,Estación Central
+18,03:00 PM,15,normal,15,439,30,Terminal Sur,Zona Industrial
+18,04:00 PM,16,normal,12,487,30,Centro,Universidad
+18,05:00 PM,17,moderado,28,1675,34,Terminal Sur,Zona Industrial
+18,06:00 PM,18,moderado,23,1197,43,Estación Oeste,Universidad
+18,07:00 PM,19,moderado,29,1237,39,Centro,Barrio Alto
+18,08:00 PM,20,colapsado,20,699,68,Estación Este,Zona Industrial
+18,09:00 PM,21,moderado,11,455,38,Terminal Sur,Barrio Alto
+18,10:00 PM,22,normal,5,296,26,Estación Oeste,Barrio Alto
+18,11:00 PM,23,moderado,5,198,43,Estación Este,Universidad
+19,04:00 AM,4,normal,8,218,27,Terminal Norte,Universidad
+19,05:00 AM,5,normal,5,211,21,Terminal Norte,Barrio Alto
+19,06:00 AM,6,moderado,20,1082,37,Terminal Sur,Estación Central
+19,07:00 AM,7,normal,30,787,26,Estación Oeste,Aeropuerto
+19,08:00 AM,8,colapsado,25,1637,61,Estación Este,Aeropuerto
+19,09:00 AM,9,colapsado,24,1004,46,Terminal Sur,Zona Industrial
+19,10:00 AM,10,moderado,11,603,44,Terminal Norte,Estación Central
+19,11:00 AM,11,moderado,16,586,32,Centro,Universidad
+19,12:00 PM,12,colapsado,17,683,65,Estación Este,Barrio Alto
+19,01:00 PM,13,moderado,11,651,39,Centro,Universidad
+19,02:00 PM,14,normal,14,537,22,Estación Este,Estación Central
+19,03:00 PM,15,normal,11,369,20,Centro,Zona Industrial
+19,04:00 PM,16,moderado,17,553,35,Terminal Norte,Universidad
+19,05:00 PM,17,normal,20,1248,22,Estación Este,Universidad
+19,06:00 PM,18,moderado,23,1072,43,Estación Oeste,Estación Central
+19,07:00 PM,19,normal,21,1649,26,Estación Oeste,Universidad
+19,08:00 PM,20,colapsado,11,585,61,Estación Este,Barrio Alto
+19,09:00 PM,21,moderado,19,614,45,Estación Este,Barrio Alto
+19,10:00 PM,22,moderado,9,256,44,Terminal Sur,Barrio Alto
+19,11:00 PM,23,normal,5,181,22,Centro,Aeropuerto
+20,04:00 AM,4,moderado,10,171,42,Centro,Aeropuerto
+20,05:00 AM,5,normal,10,291,24,Terminal Sur,Barrio Alto
+20,06:00 AM,6,colapsado,22,1146,66,Estación Oeste,Zona Industrial
+20,07:00 AM,7,moderado,25,1590,32,Centro,Universidad
+20,08:00 AM,8,colapsado,23,1585,63,Terminal Sur,Aeropuerto
+20,09:00 AM,9,colapsado,28,1537,49,Centro,Barrio Alto
+20,10:00 AM,10,moderado,20,647,41,Terminal Norte,Zona Industrial
+20,11:00 AM,11,colapsado,16,401,65,Terminal Norte,Estación Central
+20,12:00 PM,12,normal,17,548,26,Centro,Universidad
+20,01:00 PM,13,normal,13,494,23,Terminal Sur,Aeropuerto
+20,02:00 PM,14,moderado,18,678,37,Terminal Sur,Estación Central
+20,03:00 PM,15,normal,13,405,20,Centro,Barrio Alto
+20,04:00 PM,16,normal,17,442,22,Estación Este,Estación Central
+20,05:00 PM,17,colapsado,24,1032,65,Terminal Sur,Zona Industrial
+20,06:00 PM,18,colapsado,25,1505,57,Estación Este,Aeropuerto
+20,07:00 PM,19,colapsado,20,1554,53,Estación Este,Zona Industrial
+20,08:00 PM,20,colapsado,10,371,56,Terminal Norte,Barrio Alto
+20,09:00 PM,21,moderado,8,556,33,Centro,Estación Central
+20,10:00 PM,22,normal,10,252,20,Estación Oeste,Aeropuerto
+20,11:00 PM,23,colapsado,7,283,60,Terminal Norte,Estación Central
+21,04:00 AM,4,moderado,7,296,33,Terminal Sur,Estación Central
+21,05:00 AM,5,normal,9,278,22,Centro,Aeropuerto
+21,06:00 AM,6,colapsado,26,1336,48,Centro,Zona Industrial
+21,07:00 AM,7,colapsado,29,941,48,Terminal Sur,Barrio Alto
+21,08:00 AM,8,colapsado,24,1604,63,Centro,Aeropuerto
+21,09:00 AM,9,colapsado,24,1126,58,Centro,Aeropuerto
+21,10:00 AM,10,normal,13,391,21,Terminal Norte,Zona Industrial
+21,11:00 AM,11,moderado,11,442,30,Centro,Zona Industrial
+21,12:00 PM,12,normal,9,607,24,Estación Este,Aeropuerto
+21,01:00 PM,13,normal,19,608,24,Centro,Estación Central
+21,02:00 PM,14,moderado,12,674,42,Estación Oeste,Aeropuerto
+21,03:00 PM,15,moderado,15,408,34,Terminal Norte,Zona Industrial
+21,04:00 PM,16,normal,18,430,20,Terminal Norte,Barrio Alto
+21,05:00 PM,17,colapsado,30,1496,63,Estación Este,Zona Industrial
+21,06:00 PM,18,colapsado,27,1065,67,Estación Oeste,Universidad
+21,07:00 PM,19,colapsado,26,1552,55,Terminal Sur,Universidad
+21,08:00 PM,20,moderado,20,340,43,Estación Oeste,Barrio Alto
+21,09:00 PM,21,normal,9,315,24,Estación Oeste,Barrio Alto
+21,10:00 PM,22,normal,6,177,27,Terminal Norte,Aeropuerto
+21,11:00 PM,23,normal,9,246,22,Centro,Aeropuerto
+22,04:00 AM,4,normal,8,188,28,Estación Oeste,Barrio Alto
+22,05:00 AM,5,moderado,6,287,34,Terminal Norte,Aeropuerto
+22,06:00 AM,6,moderado,21,1601,32,Centro,Estación Central
+22,07:00 AM,7,moderado,26,777,35,Centro,Aeropuerto
+22,08:00 AM,8,normal,25,801,28,Terminal Sur,Universidad
+22,09:00 AM,9,normal,29,1571,20,Estación Oeste,Estación Central
+22,10:00 AM,10,normal,14,651,23,Centro,Estación Central
+22,11:00 AM,11,moderado,15,379,32,Centro,Estación Central
+22,12:00 PM,12,moderado,14,631,31,Estación Oeste,Aeropuerto
+22,01:00 PM,13,moderado,17,412,39,Centro,Universidad
+22,02:00 PM,14,normal,14,567,24,Estación Este,Aeropuerto
+22,03:00 PM,15,normal,17,693,28,Estación Oeste,Estación Central
+22,04:00 PM,16,colapsado,14,580,58,Estación Este,Zona Industrial
+22,05:00 PM,17,colapsado,25,1700,68,Terminal Sur,Universidad
+22,06:00 PM,18,colapsado,29,1086,61,Estación Este,Aeropuerto
+22,07:00 PM,19,colapsado,28,1398,63,Centro,Universidad
+22,08:00 PM,20,normal,9,531,30,Terminal Sur,Barrio Alto
+22,09:00 PM,21,normal,10,620,28,Terminal Sur,Universidad
+22,10:00 PM,22,normal,7,252,25,Terminal Sur,Aeropuerto
+22,11:00 PM,23,moderado,8,197,32,Estación Este,Estación Central
+23,04:00 AM,4,normal,6,255,24,Centro,Zona Industrial
+23,05:00 AM,5,normal,5,234,22,Terminal Norte,Universidad
+23,06:00 AM,6,colapsado,20,1325,54,Estación Este,Estación Central
+23,07:00 AM,7,colapsado,29,1319,54,Terminal Norte,Universidad
+23,08:00 AM,8,colapsado,24,822,52,Terminal Norte,Aeropuerto
+23,09:00 AM,9,colapsado,27,703,60,Terminal Sur,Universidad
+23,10:00 AM,10,moderado,18,408,30,Estación Oeste,Aeropuerto
+23,11:00 AM,11,moderado,8,513,43,Terminal Sur,Zona Industrial
+23,12:00 PM,12,colapsado,18,632,70,Estación Este,Aeropuerto
+23,01:00 PM,13,moderado,8,485,38,Terminal Sur,Zona Industrial
+23,02:00 PM,14,moderado,11,594,30,Terminal Sur,Barrio Alto
+23,03:00 PM,15,normal,13,362,24,Estación Oeste,Aeropuerto
+23,04:00 PM,16,normal,20,346,25,Estación Oeste,Zona Industrial
+23,05:00 PM,17,colapsado,24,914,70,Terminal Sur,Universidad
+23,06:00 PM,18,moderado,30,1472,36,Estación Este,Zona Industrial
+23,07:00 PM,19,colapsado,24,1257,70,Terminal Norte,Aeropuerto
+23,08:00 PM,20,normal,9,344,21,Estación Oeste,Estación Central
+23,09:00 PM,21,normal,20,487,30,Estación Oeste,Estación Central
+23,10:00 PM,22,normal,7,299,30,Terminal Sur,Estación Central
+23,11:00 PM,23,normal,9,257,29,Terminal Norte,Universidad
+24,04:00 AM,4,normal,7,222,21,Terminal Sur,Aeropuerto
+24,05:00 AM,5,normal,7,292,22,Centro,Estación Central
+24,06:00 AM,6,colapsado,23,835,53,Centro,Zona Industrial
+24,07:00 AM,7,moderado,23,990,37,Terminal Sur,Barrio Alto
+24,08:00 AM,8,moderado,25,1620,40,Terminal Norte,Zona Industrial
+24,09:00 AM,9,colapsado,29,1319,68,Estación Este,Zona Industrial
+24,10:00 AM,10,normal,9,349,27,Centro,Estación Central
+24,11:00 AM,11,normal,16,575,27,Terminal Norte,Estación Central
+24,12:00 PM,12,moderado,8,552,34,Terminal Norte,Zona Industrial
+24,01:00 PM,13,colapsado,12,338,56,Terminal Norte,Universidad
+24,02:00 PM,14,normal,20,505,23,Estación Este,Aeropuerto
+24,03:00 PM,15,moderado,12,592,34,Terminal Norte,Universidad
+24,04:00 PM,16,normal,9,478,22,Estación Oeste,Estación Central
+24,05:00 PM,17,moderado,24,1583,38,Estación Este,Zona Industrial
+24,06:00 PM,18,colapsado,23,1374,52,Centro,Universidad
+24,07:00 PM,19,normal,28,802,30,Estación Este,Zona Industrial
+24,08:00 PM,20,moderado,17,688,34,Terminal Sur,Zona Industrial
+24,09:00 PM,21,colapsado,18,688,68,Centro,Estación Central
+24,10:00 PM,22,normal,10,244,24,Terminal Norte,Barrio Alto
+24,11:00 PM,23,normal,7,239,25,Estación Oeste,Estación Central
+25,04:00 AM,4,normal,9,232,24,Estación Este,Aeropuerto
+25,05:00 AM,5,normal,6,194,30,Terminal Norte,Barrio Alto
+25,06:00 AM,6,normal,26,777,25,Terminal Sur,Universidad
+25,07:00 AM,7,colapsado,21,1272,53,Estación Este,Aeropuerto
+25,08:00 AM,8,colapsado,30,1190,63,Terminal Norte,Zona Industrial
+25,09:00 AM,9,moderado,29,1546,32,Terminal Norte,Zona Industrial
+25,10:00 AM,10,normal,18,591,21,Estación Este,Zona Industrial
+25,11:00 AM,11,normal,18,534,25,Estación Este,Estación Central
+25,12:00 PM,12,moderado,9,542,44,Estación Este,Estación Central
+25,01:00 PM,13,moderado,11,493,30,Terminal Sur,Zona Industrial
+25,02:00 PM,14,colapsado,17,463,69,Terminal Norte,Universidad
+25,03:00 PM,15,colapsado,13,676,49,Estación Este,Barrio Alto
+25,04:00 PM,16,colapsado,19,524,67,Centro,Estación Central
+25,05:00 PM,17,moderado,23,744,32,Estación Oeste,Universidad
+25,06:00 PM,18,normal,23,1506,23,Terminal Sur,Universidad
+25,07:00 PM,19,colapsado,25,1268,66,Terminal Norte,Barrio Alto
+25,08:00 PM,20,moderado,17,676,44,Terminal Norte,Barrio Alto
+25,09:00 PM,21,colapsado,9,573,45,Centro,Aeropuerto
+25,10:00 PM,22,normal,10,177,30,Estación Este,Aeropuerto
+25,11:00 PM,23,moderado,10,286,35,Terminal Sur,Barrio Alto
+26,04:00 AM,4,moderado,10,233,40,Centro,Universidad
+26,05:00 AM,5,normal,9,185,25,Terminal Sur,Aeropuerto
+26,06:00 AM,6,colapsado,25,1596,63,Estación Oeste,Aeropuerto
+26,07:00 AM,7,colapsado,27,1449,62,Terminal Sur,Universidad
+26,08:00 AM,8,normal,27,933,28,Terminal Sur,Estación Central
+26,09:00 AM,9,colapsado,25,731,64,Terminal Norte,Universidad
+26,10:00 AM,10,moderado,11,643,38,Estación Este,Estación Central
+26,11:00 AM,11,normal,17,498,21,Estación Oeste,Aeropuerto
+26,12:00 PM,12,moderado,14,678,37,Terminal Sur,Universidad
+26,01:00 PM,13,normal,10,303,30,Centro,Zona Industrial
+26,02:00 PM,14,moderado,8,620,45,Terminal Norte,Aeropuerto
+26,03:00 PM,15,normal,9,625,28,Terminal Sur,Estación Central
+26,04:00 PM,16,moderado,14,485,42,Terminal Norte,Barrio Alto
+26,05:00 PM,17,colapsado,27,1256,48,Estación Oeste,Aeropuerto
+26,06:00 PM,18,colapsado,29,1324,63,Estación Oeste,Barrio Alto
+26,07:00 PM,19,colapsado,30,1233,68,Terminal Sur,Barrio Alto
+26,08:00 PM,20,colapsado,17,554,58,Centro,Zona Industrial
+26,09:00 PM,21,normal,14,385,30,Centro,Barrio Alto
+26,10:00 PM,22,normal,10,264,27,Centro,Universidad
+26,11:00 PM,23,colapsado,9,228,55,Estación Oeste,Zona Industrial
+27,04:00 AM,4,normal,6,246,20,Estación Oeste,Barrio Alto
+27,05:00 AM,5,colapsado,5,251,59,Terminal Sur,Universidad
+27,06:00 AM,6,moderado,20,1578,37,Estación Oeste,Aeropuerto
+27,07:00 AM,7,colapsado,27,1323,66,Estación Este,Barrio Alto
+27,08:00 AM,8,moderado,22,1186,35,Terminal Sur,Estación Central
+27,09:00 AM,9,colapsado,29,1083,61,Centro,Estación Central
+27,10:00 AM,10,normal,11,654,29,Terminal Norte,Barrio Alto
+27,11:00 AM,11,normal,18,312,22,Terminal Norte,Zona Industrial
+27,12:00 PM,12,moderado,14,454,34,Estación Este,Universidad
+27,01:00 PM,13,moderado,14,427,42,Centro,Barrio Alto
+27,02:00 PM,14,normal,11,630,30,Estación Oeste,Universidad
+27,03:00 PM,15,moderado,17,342,45,Estación Este,Universidad
+27,04:00 PM,16,moderado,19,311,41,Centro,Zona Industrial
+27,05:00 PM,17,colapsado,23,1216,53,Centro,Zona Industrial
+27,06:00 PM,18,colapsado,30,1315,47,Centro,Barrio Alto
+27,07:00 PM,19,colapsado,27,1172,56,Terminal Sur,Aeropuerto
+27,08:00 PM,20,moderado,20,333,36,Terminal Sur,Barrio Alto
+27,09:00 PM,21,normal,12,671,25,Centro,Barrio Alto
+27,10:00 PM,22,normal,8,153,23,Estación Este,Universidad
+27,11:00 PM,23,normal,8,195,23,Estación Este,Barrio Alto
+28,04:00 AM,4,normal,6,261,24,Estación Este,Barrio Alto
+28,05:00 AM,5,moderado,8,166,42,Estación Oeste,Estación Central
+28,06:00 AM,6,moderado,30,1507,30,Estación Oeste,Zona Industrial
+28,07:00 AM,7,moderado,24,1135,32,Estación Oeste,Zona Industrial
+28,08:00 AM,8,moderado,26,1614,41,Estación Este,Zona Industrial
+28,09:00 AM,9,moderado,21,1192,41,Estación Oeste,Aeropuerto
+28,10:00 AM,10,normal,12,670,22,Estación Oeste,Zona Industrial
+28,11:00 AM,11,colapsado,16,659,57,Terminal Norte,Aeropuerto
+28,12:00 PM,12,normal,12,627,24,Terminal Sur,Zona Industrial
+28,01:00 PM,13,moderado,9,310,30,Terminal Sur,Barrio Alto
+28,02:00 PM,14,colapsado,8,654,69,Estación Este,Aeropuerto
+28,03:00 PM,15,normal,8,496,24,Centro,Estación Central
+28,04:00 PM,16,moderado,13,645,45,Estación Oeste,Aeropuerto
+28,05:00 PM,17,colapsado,27,1318,45,Terminal Sur,Aeropuerto
+28,06:00 PM,18,moderado,21,1510,30,Centro,Estación Central
+28,07:00 PM,19,colapsado,23,1608,62,Estación Este,Barrio Alto
+28,08:00 PM,20,colapsado,10,514,61,Estación Oeste,Zona Industrial
+28,09:00 PM,21,moderado,13,452,43,Estación Este,Barrio Alto
+28,10:00 PM,22,colapsado,8,203,52,Centro,Universidad
+28,11:00 PM,23,colapsado,10,180,61,Estación Oeste,Aeropuerto
+29,04:00 AM,4,normal,5,257,21,Terminal Sur,Estación Central
+29,05:00 AM,5,normal,9,263,29,Estación Este,Estación Central
+29,06:00 AM,6,colapsado,29,1015,56,Centro,Zona Industrial
+29,07:00 AM,7,moderado,20,1156,42,Centro,Aeropuerto
+29,08:00 AM,8,colapsado,29,1145,47,Centro,Aeropuerto
+29,09:00 AM,9,colapsado,22,1004,46,Estación Este,Universidad
+29,10:00 AM,10,normal,11,519,27,Centro,Universidad
+29,11:00 AM,11,moderado,10,562,35,Terminal Norte,Aeropuerto
+29,12:00 PM,12,moderado,20,660,35,Centro,Universidad
+29,01:00 PM,13,normal,16,375,20,Terminal Norte,Aeropuerto
+29,02:00 PM,14,moderado,15,674,35,Terminal Norte,Barrio Alto
+29,03:00 PM,15,moderado,8,438,38,Centro,Estación Central
+29,04:00 PM,16,normal,16,588,25,Estación Este,Universidad
+29,05:00 PM,17,colapsado,23,1670,64,Estación Este,Estación Central
+29,06:00 PM,18,colapsado,30,1341,45,Estación Oeste,Zona Industrial
+29,07:00 PM,19,moderado,29,1694,45,Terminal Norte,Estación Central
+29,08:00 PM,20,moderado,14,470,39,Estación Este,Estación Central
+29,09:00 PM,21,colapsado,19,414,62,Terminal Norte,Barrio Alto
+29,10:00 PM,22,normal,5,165,28,Centro,Zona Industrial
+29,11:00 PM,23,normal,7,249,29,Terminal Norte,Universidad
+30,04:00 AM,4,normal,10,211,21,Terminal Norte,Universidad
+30,05:00 AM,5,normal,8,293,30,Estación Oeste,Aeropuerto
+30,06:00 AM,6,colapsado,26,1116,62,Estación Oeste,Aeropuerto
+30,07:00 AM,7,colapsado,30,883,56,Estación Oeste,Estación Central
+30,08:00 AM,8,colapsado,23,826,67,Estación Oeste,Universidad
+30,09:00 AM,9,normal,27,1263,28,Estación Oeste,Estación Central
+30,10:00 AM,10,moderado,14,623,31,Terminal Sur,Barrio Alto
+30,11:00 AM,11,moderado,15,645,38,Estación Oeste,Universidad
+30,12:00 PM,12,normal,11,652,26,Centro,Barrio Alto
+30,01:00 PM,13,moderado,18,622,32,Terminal Sur,Zona Industrial
+30,02:00 PM,14,normal,12,694,28,Terminal Sur,Universidad
+30,03:00 PM,15,moderado,8,330,34,Estación Este,Estación Central
+30,04:00 PM,16,normal,15,656,30,Estación Oeste,Aeropuerto
+30,05:00 PM,17,colapsado,28,1247,58,Centro,Aeropuerto
+30,06:00 PM,18,colapsado,22,1132,55,Estación Este,Universidad
+30,07:00 PM,19,moderado,27,861,30,Estación Este,Estación Central
+30,08:00 PM,20,normal,16,328,21,Estación Oeste,Universidad
+30,09:00 PM,21,colapsado,8,413,63,Estación Oeste,Aeropuerto
+30,10:00 PM,22,normal,9,186,29,Terminal Sur,Zona Industrial
+30,11:00 PM,23,colapsado,7,153,60,Terminal Sur,Barrio Alto

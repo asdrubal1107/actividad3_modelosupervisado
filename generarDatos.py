@@ -2,11 +2,6 @@ import pandas as pd
 import random
 from datetime import datetime
 
-###### Actividad 3 - Métodos de aprendizaje supervisado #######
-#### Jorge Eduardo Amaya Narvaez #####
-#### Wilson Fabian Fonnegra Gomez #####
-#### Jorge Asdrubal Ortega Gonzalez #####
-
 n_dias = 30
 horas_operativas = list(range(4, 24))
 origenes = ['Terminal Norte', 'Terminal Sur', 'Centro', 'Estación Este', 'Estación Oeste']
